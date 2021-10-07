@@ -1,7 +1,7 @@
 #! /bin/bash 
 
 function printfn(){
-    echo "$1 Welcome to Print Fuction"
+    echo "$1 Welcome to Print Fuction "
 }
 
 
